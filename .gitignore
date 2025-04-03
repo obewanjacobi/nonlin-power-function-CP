@@ -2,9 +2,15 @@
 .Rhistory
 .Rapp.history
 
+# Large Files
+*.csv
+*.png
+*.json
+
 # Session Data files
 .RData
 .RDataTmp
+*.Rproj
 
 # User-specific files
 .Ruserdata
@@ -47,3 +53,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Random Files
+scratch.R
