@@ -1,6 +1,7 @@
 # History files
 .Rhistory
 .Rapp.history
+*.code-workspace
 
 # Large Files
 *.csv
